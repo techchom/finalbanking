@@ -36,7 +36,6 @@ class TestBankFrontend(unittest.TestCase):
             "balance": 5000.0,
             "password": "adminpass"
         }
-
     # --- Testet për login/logout ---
     @patch('builtins.input', side_effect=['standard', 'TestUser'])
     @patch('frontend.password_me_yje', return_value='1234')
