@@ -529,7 +529,7 @@ def çaktivizo_llogari():
 
 def ndrysho_plan():
     if not session['is_admin']:
-        print("❌ Vetëm administratori mund të ndryshojë planin e llogarive.")
+        print("❌ Vetëm administratori(admini) mund të ndryshojë planin e llogarive.")
         return
 
     nr = input("🔁 Numri i llogarisë për ndryshim plani: ").strip().zfill(5)
