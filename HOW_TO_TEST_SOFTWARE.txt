@@ -1,0 +1,9 @@
+TESTIMI
+pjesen e backendit e teston kesht      *python -m unittest test.test_bank
+pjesen e front endit testohet keshtu  *python -m unittest test.test_frontend
+
+
+TESTIMI NGA Consola
+
+Admin_User
+1111
