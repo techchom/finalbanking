@@ -191,7 +191,7 @@ def shkruaj_current(accounts, path="data/new_current_accounts.txt"):
             f.write(line)
         f.write("00000_END_OF_FILE___________A_00000.00_\n")
 
-# ----------------------------------------
+# ---------------------------------------
 # Funksioni kryesor
 # ----------------------------------------
 def main():
