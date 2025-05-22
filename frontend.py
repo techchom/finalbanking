@@ -551,7 +551,10 @@ def ndrysho_plan():
         print(f"ℹ️ Llogaria tashmë është në planin {plani_ri}.")
         return
 
-   
+    accounts[nr]['plan'] = plani_ri
+    ruaj_accounts()
+
+
     with open("data/session_transactions.txt", "a") as f:
         f.write(formo_transaksion("08", nr, "00000.00", plani_ri) + "\n")
     regjistro_csv("08", "Ndrysho Plan", emri, 0, plani_ri)
