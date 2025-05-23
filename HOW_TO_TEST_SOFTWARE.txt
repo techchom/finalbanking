@@ -6,10 +6,11 @@ pjesen e front endit testohet keshtu  *python -m unittest test.test_frontend
 how to make commits in git
 git status
 
-
 qishty mundeni me punu me git
 git clone 
 kjo eshte per mi marr ndryshimet qe i ben njani
+
+https://github.com/techchom/finalbanking
 
 
 git add .

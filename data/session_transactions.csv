@@ -92,3 +92,8 @@ Koha,Kodi,Lloji,Nga (emri),Llogaria,Shuma (€),Shtese
 2025-05-23 00:51:12,04,Depozitë,TestUser,200.00,
 2025-05-23 00:51:12,01,Tërheqje,TestUser,100.00,
 2025-05-23 00:51:12,02,Transfer,TestUser,300.00,00000
+2025-05-23 10:03:30,04,Depozitë,TestUser,200.00,
+2025-05-23 10:03:30,03,Faturë,TestUser,100.00,EC
+2025-05-23 10:03:30,04,Depozitë,TestUser,200.00,
+2025-05-23 10:03:30,01,Tërheqje,TestUser,100.00,
+2025-05-23 10:03:30,02,Transfer,TestUser,300.00,00000
