@@ -14,6 +14,8 @@ kjo eshte per mi marr ndryshimet qe i ben njani
 
 https://github.com/techchom/finalbanking
 
+
+github
 git add .
 git commit -m "Add login functionality and update frontend.py"
 git push
