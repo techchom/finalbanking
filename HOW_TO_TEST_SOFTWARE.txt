@@ -1,17 +1,18 @@
+.\env\Scripts\Activate
 TESTIMI
 pjesen e backendit e teston kesht      *python -m unittest test.test_bank
 pjesen e front endit testohet keshtu  *python -m unittest test.test_frontend
 
 
-how to make commits in git
+how to make commits in github
 git status
+
 
 qishty mundeni me punu me git
 git clone 
 kjo eshte per mi marr ndryshimet qe i ben njani
 
 https://github.com/techchom/finalbanking
-
 
 git add .
 git commit -m "Add login functionality and update frontend.py"
